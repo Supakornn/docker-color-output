@@ -1,0 +1,5 @@
+alias dco='function _dco() { $1 | docker-color-output; }; _dco'
+alias di='docker images | docker-color-output -c ~/.config/docker-color-output/config.json'
+alias dps='docker ps -a | docker-color-output -c ~/.config/docker-color-output/config.json'
+alias ds='docker stats --no-stream | docker-color-output -c ~/.config/docker-color-output/config.json'
+alias dcps='docker compose ps -a | docker-color-output -c ~/.config/docker-color-output/config.json'
