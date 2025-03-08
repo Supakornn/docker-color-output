@@ -56,21 +56,21 @@ docker-color-output -c ~/.config/docker-color-output/config.json
 {
   "colors": {
     "reset": "\u001b[0m",
-    "black": "\u001b[0;30m",
-    "darkGray": "\u001b[1;30m",
+    "black": "\u001b[1;34m",
+    "darkGray": "\u001b[1;36m",
     "red": "\u001b[0;31m",
-    "lightRed": "\u001b[1;31m",
+    "lightRed": "\u001b[1;91m",
     "green": "\u001b[0;32m",
-    "lightGreen": "\u001b[1;32m",
+    "lightGreen": "\u001b[1;92m",
     "brown": "\u001b[0;33m",
-    "yellow": "\u001b[1;33m",
+    "yellow": "\u001b[1;93m",
     "blue": "\u001b[0;34m",
-    "lightBlue": "\u001b[1;34m",
+    "lightBlue": "\u001b[1;94m",
     "purple": "\u001b[0;35m",
-    "lightPurple": "\u001b[1;35m",
+    "lightPurple": "\u001b[1;95m",
     "cyan": "\u001b[0;36m",
-    "lightCyan": "\u001b[1;36m",
-    "lightGray": "\u001b[0;37m",
+    "lightCyan": "\u001b[1;96m",
+    "lightGray": "\u001b[1;97m",
     "white": "\u001b[1;37m"
   }
 }
