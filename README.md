@@ -50,7 +50,7 @@ colors—any color setting not specified in your file will automatically revert 
 docker-color-output -c ~/.config/docker-color-output/config.json
 ```
 
-##### Default Configuration File
+##### Supakornn's Configuration - Copy and Paste in ~/.config/docker-color-output/config.json
 
 ```json
 {
