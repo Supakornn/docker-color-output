@@ -92,6 +92,7 @@ Enhance your Docker workflow with these handy aliases and enjoy vibrant outputs.
 ### Aliases 🪄
 
 Utilize the bash functions provided in [aliases.sh](bash/aliases.sh) to streamline your commands.
+For zsh in [.zhrc](zsh/.zshrc)
 
 ### docker images 💡
 
